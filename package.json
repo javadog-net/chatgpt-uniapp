@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@uni-ui/code-ui": "^1.4.8",
+    "moment": "^2.29.4",
+    "uview-ui": "^2.0.31"
+  }
+}

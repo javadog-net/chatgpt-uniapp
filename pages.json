@@ -1,0 +1,28 @@
+{
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [
+		{
+			"path": "pages/index/index"
+		},
+		{
+			"path": "pages/message/message"
+		},
+		{
+			"path": "pages/login/login"
+		},
+		{
+			"path": "pages/register/register"
+		}
+	],
+	"globalStyle": {
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"navigationStyle":"custom",
+		"app-plus":{
+			"titleView":false
+		}
+	},
+	"uniIdRouter": {}
+}
